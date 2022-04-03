@@ -1,4 +1,4 @@
-// keyboad
+// keyboard
 #define AnaPin A0
 int value;
 String operand_and_operator[4] = {"", "", "", ""};
