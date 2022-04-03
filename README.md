@@ -5,3 +5,9 @@
 
 ## Demo
 [Demo Link](https://youtu.be/Tgwz2N-lMeI)
+
+## Instructions
+* 2 + 4 = 6
+* 2 - 4 = -2
+* 2 * 4 = 8
+* 2 / 4 = 0.5
